@@ -20,9 +20,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here]()
-- Live Site URL: [here]()
-- Live Site URL: [here]()
+- Solution URL: [here](https://github.com/aruntutter/Apple-Clone)
+- Live Site URL: [here](https://aruntutter.github.io/Apple-Clone/)
+- Live Site URL: [here](https://rainbow-belekoy-a67fc2.netlify.app)
 
 ## My process
 
