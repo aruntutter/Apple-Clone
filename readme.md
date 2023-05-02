@@ -1,4 +1,4 @@
-# APPLE Clone <i class="fa-brands fa-apple"></i>
+# APPLE Clone 🍎
 
 ## Table of contents
 
