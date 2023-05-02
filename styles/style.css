@@ -330,6 +330,120 @@ li {
   color: rgb(0, 102, 204);
 }
 
+/* SLIDER */
+.slider {
+  height: 666px;
+  margin: auto;
+  position: relative;
+  width: 1250px;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+}
+
+.slide-track {
+  display: flex;
+  width: calc(1250px * 11);
+}
+
+.slide {
+  height: 666px;
+  width: 1250px;
+  display: flex;
+  align-items: center;
+  padding: 15px;
+}
+
+img {
+  width: 100%;
+}
+
+/* CONTAINER-SEVEN */
+.container-seven {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container-7 {
+  width: 980px;
+  height: auto;
+}
+
+.seven-para {
+  font-size: 12px;
+  text-align: start;
+  padding-top: 1rem;
+}
+
+.line-break {
+  padding-top: 1rem;
+}
+
+/* CONTAINER-EIGHT */
+.container-eight {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.container-8 {
+  width: 980px;
+  height: auto;
+  padding-bottom: 1rem;
+}
+
+.container-8-sub-box {
+  display: flex;
+  flex-direction: row;
+}
+
+.shop-learn {
+  width: 196px;
+  height: auto;
+}
+
+.account {
+  width: 196px;
+  height: auto;
+}
+
+.apple-store {
+  width: 196px;
+  height: auto;
+}
+
+.for-business {
+  width: 196px;
+  height: auto;
+}
+
+.apple-values {
+  width: 196px;
+  height: auto;
+}
+
+.headings {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  padding-top: 1rem;
+  line-height: 24px;
+}
+
+.paragraph {
+  font-size: 12px;
+  /* padding-top: 1rem; */
+  line-height: 28px;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-topic {
+  color: black;
+}
+
 @media screen and (min-width: 576px) {
 }
 
